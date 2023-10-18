@@ -1,7 +1,8 @@
 # SB_T41_4on_2ext
-Sketches to test functions of the SB_T41_4on_2ext.
-This repository contains example sketch files to test features
-of the Stepper Boss, Model SB_T41_4on_2ext. Available at Muvmotors.com.
+Files supporting the Model SB_T41_4on_2ext used for animatronic props.
+This repository contains example sketch files to test all functions,
+I/O Pinout diagram, and mounting DWG, DXF and PDF files
+for the Stepper Boss, Model SB_T41_4on_2ext. Available at Muvmotors.com.
 
 The Stepper Boss, Model SB_T41_4on_2ext, is a carrier board with all SMD parts and headers soldered and 
 ready to receive the modules (modules not provided) your project requires
