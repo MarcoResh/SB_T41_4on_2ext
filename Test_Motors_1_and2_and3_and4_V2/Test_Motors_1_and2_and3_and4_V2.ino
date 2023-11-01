@@ -25,7 +25,7 @@
 
 // Set the Teensy pins to stepper motor drivers and create the AccelStepper instances
 
-// Teensy 4.1 on board SB_T41_4on_2ext_COMBO_ICs pins
+// Teensy 4.1 on board SB_T41_4on_2ext
 // DRV1
 const int motorInterfaceType1 = 1;
 const int stepPin1 = 4; // IO-4, pin 6 left
