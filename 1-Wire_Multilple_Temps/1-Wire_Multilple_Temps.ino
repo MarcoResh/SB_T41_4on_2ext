@@ -1,6 +1,7 @@
  /* 1-Wire_Multiple_Temps.ino
  *  Sensors wired in parallel to IO-12 on the 
- *  SB_T41_7ext or SB_T41_4on_2ext boards. Same IO pins.
+ *  SB_T41_4on_2ext boards. Same IO pins.
+ *  Use DS18B20 temperature sensor.
  */
  
 #include <OneWire.h>
